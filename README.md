@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi, I'm Michał 👋
 
-<!--
-**mihalkrol/mihalkrol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data professional transitioning into **Data Engineering**, based in Gdańsk, Poland.
+Hands-on with end-to-end pipelines: Databricks, Delta Lake, Airflow, SQL and the Medallion Architecture.
 
-Here are some ideas to get you started:
+🔭 Currently looking for a **Junior Data Engineer / Analytics Engineer** role (remote in EU / Tri-City hybrid).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Featured projects**
+- 🏗️ [Databricks Medallion Lakehouse](https://github.com/mihalkrol/Databricks-Medallion-Lakehouse) — Bronze→Silver→Gold, Delta Lake `MERGE INTO`, star schema, data quality checks
+- 🪙 [Crypto Data Pipeline](https://github.com/mihalkrol/crypto-data-pipeline) — Airflow-orchestrated ELT, idempotent deduplication, layered raw/clean data
+
+**Stack:** SQL · Python · Databricks · Delta Lake · Airflow · ETL/ELT · Data Modeling · Git
+
+📫 michalpawelkrol@gmail.com
